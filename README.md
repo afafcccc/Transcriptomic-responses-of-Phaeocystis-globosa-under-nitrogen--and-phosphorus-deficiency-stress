@@ -2,7 +2,7 @@
 
 ## Quick Access:
 Please click the link below to check my latest version of paper:)
-> ### 📄 **[Latest Version!!](./manuscript/Draft.pdf)**
+> ### 📄 **[Latest Version!!](./manuscript/FINAL.pdf)**
 
 ## Description
 This repository is the place where you can track my progress in paper writing(expecially you, admission officer!). Raw darft of my paper will be uploaded for you to read. I've uploaded all the raw experimental data, along with the bioinformatics analysis returned from Biomarker Technologies Co., Ltd for further information. 
