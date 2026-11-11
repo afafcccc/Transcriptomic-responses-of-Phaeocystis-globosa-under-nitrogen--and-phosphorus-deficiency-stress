@@ -1,4 +1,4 @@
-# Effect of Nitrate and Phosphate Starvation on *P.globosa*: Growth, Photosynthetic Performance, and Molecular Response
+# Transcriptomic responses of Phaeocystis globosa under nitrogen- and phosphorus-deficiency stress
 
 ## Quick Access:
 Please click the link below to check my latest version of paper:)
@@ -10,26 +10,29 @@ This repository is the place where you can track my progress in paper writing(ex
 ## Paper Writing Progress
 | Section | Title | Status |
 |---------|-------|--------|
-| **1** | Introduction | ⬜ |
-| **2** | Materials and Methods | |
-| &nbsp;&nbsp;2.1 | *P. globosa* culture condition | ✅ |
-| &nbsp;&nbsp;2.2 | Experimental design | ✅ |
-| &nbsp;&nbsp;2.3 | *P. globosa* cell counting | ✅ |
-| &nbsp;&nbsp;2.4 | Measurement of chlorophyll fluorescence | ✅ |
-| &nbsp;&nbsp;2.5 | Measurement of nitrate and phosphate concentration | ✅ |
-| &nbsp;&nbsp;2.6 | RNA extraction and preparation | ✅ |
-| &nbsp;&nbsp;2.7 | Transcriptome data analysis | ✅ |
-| **3** | Results | |
-| &nbsp;&nbsp;3.1 | Growth and total cell density | ✅ |
-| &nbsp;&nbsp;3.2 | Photosynthetic performance | ✅ |
-| &nbsp;&nbsp;3.3 | Nitrate and phosphate concentrations | ✅ |
-| &nbsp;&nbsp;3.4 | Transcriptome sequencing and assembly | ⬜ |
-| &nbsp;&nbsp;3.5 | Differential expression analysis | ⬜ |
-| &nbsp;&nbsp;3.6 | Functional enrichment analysis | ⬜ |
-| &nbsp;&nbsp;3.7 | Expression patterns of key genes | ⬜ |
-| **4** | Discussion | ⬜ |
-| **5** | Conclusion | ⬜ |
-| **6** | References | ⬜ |
+| **1** | Introduction | ✅ |
+| &nbsp;&nbsp;1.1 | Biological and ecological hazards of *Phaeocystis globosa* | ✅ |
+| &nbsp;&nbsp;1.2 | Effect of nitrogen and phosphorus changes on phytoplankton | ✅ |
+| &nbsp;&nbsp;1.3 | Research progress on nutritional stress of phytoplankton | ✅ |
+| &nbsp;&nbsp;1.4 | Research content and significance | ✅ |
+| **2** | Materials and Methods | ✅ |
+| &nbsp;&nbsp;2.1 | Algae cultivation and experimental design | ✅ |
+| &nbsp;&nbsp;2.2 | RNA extraction | ✅ |
+| &nbsp;&nbsp;2.3 | RNA library construction and Illumina sequencing | ✅ |
+| &nbsp;&nbsp;2.4 | Transcriptome bioinformatics analysis | ✅ |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.4.1 | Quality control of sequencing data and de novo assembly | ✅ |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.4.2 | Unigene functional annotation | ✅ |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.4.3 | Gene expression levels and transcriptional characteristics | ✅ |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.4.4 | Gene screening and GO functional enrichment | ✅ |
+| **3** | Results and Discussion | ✅ |
+| &nbsp;&nbsp;3.1 | Transcriptome sequencing quality control | ✅ |
+| &nbsp;&nbsp;3.2 | De novo assembly and sequencing saturation assessment | ✅ |
+| &nbsp;&nbsp;3.3 | Functional annotation of assembled unigenes | ✅ |
+| &nbsp;&nbsp;3.4 | Transcriptome profiling under nutrient limitation | ✅ |
+| &nbsp;&nbsp;3.5 | Identification and statistics of differentially expressed genes | ✅ |
+| &nbsp;&nbsp;3.6 | GO biological process enrichment of DEGs | ✅ |
+| **4** | Conclusion | ✅ |
+| **5** | References | ✅ |
 
 ## Data & Analysis
 | Item | Status | Notes |
